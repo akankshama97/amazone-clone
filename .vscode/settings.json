@@ -1,0 +1,6 @@
+{
+    "fiveServer.highlight": true,
+    "fiveServer.injectBody": true,
+    "fiveServer.navigate": true,
+    "liveServer.settings.port": 5501
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS level 1</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+
+<h1>style="color:red">hello world!</h1>
+<h1> style="color:yellow">hello world in yellow</h1>
+<p>This is a simple & normal paragraph</p>
+<button>Click me!</button>
+
+<div id="box">
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex debitis dolor quaerat corrupti facilis, enim modi veniam fuga cupiditate molestiae nesciunt, tempora incidunt dignissimos id obcaecati soluta temporibus necessitatibus provident?
+    Cumque ex amet quas dicta veniam provident sint ea pariatur animi, numquam, maxime ipsa ut possimus saepe veritatis quia enim soluta minima corporis eligendi, exercitationem odio sed perspiciatis! Quam, numquam?
+    Perspiciatis, voluptatibus sequi! Nemo, non debitis itaque aperiam illo vitae molestias quisquam ab facilis maxime eum velit eos iusto minima blanditiis, soluta cumque iure eius totam dolorum natus impedit beatae.
+    Commodi, explicabo. Culpa temporibus quaerat aut laudantium fugit repellendus veritatis nulla cum et voluptatibus exercitationem non quos, itaque molestias? At officiis iste alias cumque perspiciatis quisquam nisi quia nostrum itaque!
+    Similique quae eum sit, corrupti iste, maiores quasi laboriosam ipsa assumenda voluptatum qui magni fuga. Ipsa laboriosam totam tempora officiis ut quisquam animi est, sit ducimus assumenda dolorum accusamus necessitatibus!
+    Corrupti ipsam eveniet dolores expedita distinctio nisi illum veritatis molestias iusto recusandae a nihil excepturi odio, nemo, minima pariatur ipsa iste atque libero vero aliquid rem? Amet soluta nostrum eius?
+    Libero modi illum tempore perspiciatis numquam, cumque quasi cupiditate architecto et voluptatem quaerat eum rerum quod. Adipisci, debitis blanditiis, atque corrupti qui iure similique quia accusamus in voluptas, laborum esse?
+    Vero modi eos aut, voluptatem eius fugiat consequatur odio ratione dignissimos molestiae. Vitae minima expedita odit blanditiis itaque nostrum incidunt consequatur iste doloremque fugiat, ab libero, esse, asperiores quae corrupti!
+    Accusantium maiores eos dolores facilis consectetur laboriosam quasi iste minus officia eius quis ullam, repellat autem delectus id alias voluptatum amet saepe magni sit culpa velit? Nulla quo id enim!
+    Architecto, reiciendis esse error mollitia voluptates cumque omnis eos quae atque quo similique consectetur sit. Reiciendis sit maiores ea consequatur numquam similique iure possimus odio veniam? Maiores similique ab assumenda.
+</div>
+<h1> class="heading">heading 2</h1>
+<h1>heading</h1>
+<p><Lorem ijpsum</p>
+</body>
+</html>
